@@ -1,4 +1,4 @@
-h1{
+h1, h2, h3{
     background-color: rgb(162, 205, 244);
 }
 body{
@@ -8,7 +8,11 @@ header, main, footer{
     padding-bottom: 1rem;
     background-color: antiquewhite;
     margin-top: 1rem;
+    margin-bottom: 10rem;
 }
-header:hover, main:hover, footer:hover{
-    opacity: 0;
+a{
+    margin-left: 16rem;
+}
+nav{
+    background-color: rgb(233, 233, 126);
 }
